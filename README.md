@@ -11,3 +11,7 @@ This dataset contains three folders: train (15000 images) test (3000 images) val
 Objective :
 Make a CNN Model to classify Vegetables
 
+Deployment:
+
+https://iqbal6661-vegetables-prediction.hf.space
+
